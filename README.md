@@ -1,7 +1,7 @@
 - 👋 Hi, I’m gifte
-- 👀 I’m interested in analytical skills
+- 👀 I’m interested in data analytical skills
 - 🌱 I’m currently learning data visualization
-- 💞️ I’m looking to collaborate in deep analytics and data science
+- 💞️ I’m looking to collaborate on any project involving deep analytics and data science
 - 📫 Looking for opportunities to join as an intern/full time in data analyst field
 
 <!---
